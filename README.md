@@ -48,17 +48,23 @@
   ![Learning](https://img.shields.io/badge/Learning-📚-yellow)
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="https://instagram.com/creativeindia__/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100052831652668">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@PROJECTOCCUPYMARS">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-</p>
+<div align="center">
+  <div style="display: inline-block; margin: 20px;">
+    <a href="https://instagram.com/creativeindia__/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+  </div>
+  <div style="display: inline-block; margin: 20px;">
+    <a href="https://www.facebook.com/profile.php?id=100052831652668">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+  </div>
+  <div style="display: inline-block; margin: 20px;">
+    <a href="https://www.youtube.com/@PROJECTOCCUPYMARS">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+    </a>
+  </div>
+</div>
 
 ## 🛠️ Skills and Tools
 <p align="center">
@@ -73,11 +79,6 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PIEspace&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-## 🎮 Play a Game!
-<p align="center">
-  <iframe src="https://snake-game.simplecoding.me/" width="300" height="300" title="Snake Game"></iframe>
 </p>
 
 <p align="center">
