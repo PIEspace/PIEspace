@@ -1,5 +1,5 @@
 <h1 align="center">
-  👽 Greetings, Earthlings! I'm [Pie Space] 👽
+  👽 Greetings, Earthlings! I'm Pie Space 👽
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/PIEspace?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/PIEspace?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
   <a href="https://instagram.com/creativeindia__/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Follow"/>
@@ -22,7 +22,7 @@
 </p>
 
 <h2 align="center">
-  🌌 On a Mission to Explore the Cosmos 🌌
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=On+a+Mission+to+Explore+the+Cosmos;Rocketry+Enthusiast;Robotics+Developer;Software+Innovator" alt="Typing SVG"/>
 </h2>
 
 <p align="center">
@@ -58,6 +58,21 @@
   <a href="https://www.youtube.com/@PROJECTOCCUPYMARS">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
+</p>
+
+## 🛠️ Skills and Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PIEspace&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
