@@ -75,6 +75,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PIEspace&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
+## 🎮 Play a Game!
+<p align="center">
+  <iframe src="https://snake-game.simplecoding.me/" width="300" height="300" title="Snake Game"></iframe>
+</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Mbjc28YFuR3UKOy/giphy.gif" alt="Alien saying goodbye" width="300"/>
 </p>
