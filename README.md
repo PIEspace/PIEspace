@@ -7,12 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://www.timeanddate.com/scripts/clock-8/clock.png?type=iso&style=iso&time=UTC" alt="UTC Clock" width="150"/>
-  <img src="https://www.timeanddate.com/scripts/clock-8/clock.png?type=iso&style=iso&time=America/New_York" alt="New York Clock" width="150"/>
-  <img src="https://www.timeanddate.com/scripts/clock-8/clock.png?type=iso&style=iso&time=Asia/Tokyo" alt="Tokyo Clock" width="150"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/PIEspace?tab=followers">
     <img src="https://img.shields.io/github/followers/PIEspace?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
@@ -85,6 +79,8 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PIEspace&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PIEspace&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PIEspace&theme=radical" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
