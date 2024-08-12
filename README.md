@@ -1,10 +1,6 @@
 <h1 align="center">
-  👽 Welcome to the Cosmos! I'm Pie Space 👽
+  <img src="path_to_your_logo_image" alt="PIE.space Mars Rocket" width="300"/>
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" alt="Alien waving" width="300"/>
-</p>
 
 <p align="center">
   <a href="https://github.com/PIEspace?tab=followers">
