@@ -126,12 +126,7 @@
 
 ---
 
-## ✨ Achievements
-- **🏆 Winner of the National Robotics Championship 2022**
-- **🚀 Successfully launched a high-altitude balloon to the stratosphere**
-- **🎖️ Received the 'Innovator of the Year' award at TechCon 2021**
 
----
 
 ## 📫 Get in Touch
 <p align="center">
