@@ -3,8 +3,7 @@
 </h1>
 
 
-   <a href="https://piespace.github.io/SocialMedia/"><h1>SocialMedia</h1></a>
-  </a>
+ 
 
 
 <p align="center">
