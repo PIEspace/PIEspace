@@ -119,7 +119,7 @@
 ## 🎇 SkyVoyager CanSat
 <p align="center">
   <!-- Replace 'your-image-url.jpg' with the actual URL of your SkyVoyager CanSat photo -->
-  <img src="your-image-url.jpg" alt="SkyVoyager CanSat" width="500"/>
+  <img src="20.jpg" alt="SkyVoyager CanSat" width="500"/>
 </p>
 
 > **SkyVoyager CanSat**: A miniature satellite project simulating real-world space missions. Designed for atmospheric data collection and telemetry.
