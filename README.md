@@ -2,10 +2,10 @@
   👽 Welcome to the Cosmos! I'm <span style="color:#00FF00;">Pie Space</span> 👽
 </h1>
 
-<p align="center">
+
    <a href="https://piespace.github.io/SocialMedia/"><h1>SocialMedia</h1></a>
   </a>
-</p>
+
 
 <p align="center">
   <img src="Logo Two.jpeg" alt="Alien waving" width="300"/>
