@@ -57,7 +57,7 @@
   - Python(PyQt5/PyQt6 , Customtkinter , Tkinter  and more )
   - c++ with qt (Building a Super Advanced GUI Application for my Rocket Ground Control Software)
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" alt="Spaceship" width="300"/>
+  <img src="26.png" alt="Spaceship" width="300"/>
 </p>
 
 ---
