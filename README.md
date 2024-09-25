@@ -135,13 +135,12 @@
 
 ## 📫 Get in Touch
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:pie.space12@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/yourhandle">
+
+  
+  <a href="https://x.com/PIE_SPACE_12">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
@@ -160,7 +159,5 @@
 
 ---
 
-**Note**: Remember to replace placeholders like `'your.email@example.com'`, `'your-image-url.jpg'`, and social media links (`'yourprofile'`, `'yourhandle'`) with your actual contact information and the URL of your SkyVoyager CanSat photo.
 
----
 
