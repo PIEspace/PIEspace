@@ -35,7 +35,7 @@
 
 ## 🚀 Mission Statement
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=800&lines=Exploring+the+Final+Frontier;Mastering+Rocketry+and+Robotics;Innovating+in+Software+Development;Building+a+Sustainable+Future;Join+Me+on+This+Cosmic+Journey!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=800&lines=Exploring+the+Final+Frontier;Mastering+Rocketry+and+Robotics;Innovating+in+Software+Development;Building+a+Sustainable+Future;Current+Project+VTVL+Rocket;Join+Me+on+This+Space+Journey!"/>
 </h2>
 
 <p align="center">
@@ -54,7 +54,8 @@
 - **💻 Software Development**: Crafting cutting-edge applications and simulations.
   - ![Software](https://img.shields.io/badge/Software-💻-red)
   - Working on real-time data processing and visualization.
-
+  - Python(PyQt5/PyQt6 , Customtkinter , Tkinter  and more )
+  - c++ with qt (Building a Super Advanced GUI Application for my Rocket Ground Control Software)
 <p align="center">
   <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" alt="Spaceship" width="300"/>
 </p>
