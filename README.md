@@ -116,7 +116,7 @@
 
 ---
 
-## 🎇 SkyVoyager CanSat
+## 🎇 Current Project = SkyVoyager CanSat
 <p align="center">
   <!-- Replace 'your-image-url.jpg' with the actual URL of your SkyVoyager CanSat photo -->
   <img src="20.jpg" alt="SkyVoyager CanSat" width="500"/>
