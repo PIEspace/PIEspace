@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" alt="Alien waving" width="300"/>
+  <img src="Logo Two.jpeg" alt="Alien waving" width="300"/>
 </p>
 
 <p align="center">
