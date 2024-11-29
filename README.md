@@ -1,6 +1,4 @@
-<h1 align="center">
-  🚀 Welcome to Pie Space: Pioneering the Future of Aerospace 🚀
-</h1>
+# <h1 align="center">🚀 Pie Space: Pioneering the Future of Aerospace 🚀</h1>
 
 <p align="center">
   <img src="Logo Two.jpeg" alt="Pie Space Logo" width="300"/>
@@ -33,6 +31,7 @@
 ---
 
 ## 🚀 Our Mission
+
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=800&lines=Revolutionizing+Space+Travel;Mastering+Vertical+Landing+Rocket+Tech;Building+the+Future+of+Aerospace;Empowering+Innovation;Join+Us+in+Shaping+the+Next+Frontier!"/>
 </h2>
@@ -41,24 +40,41 @@
   <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" alt="Rocket Launch" width="300"/>
 </p>
 
+At **Pie Space**, we are committed to pushing the boundaries of aerospace technology. Our mission is to revolutionize space travel by mastering vertical take-off and vertical landing (VTVL) rocket technology with interplanetary capabilities. We strive to build the future of aerospace through innovation, collaboration, and a relentless pursuit of excellence.
+
 ---
 
 ## 🛰️ Current Projects
-- **🚀 VTVL Rocket Development**: 
-  - **Goal**: Engineering a vertical take-off and vertical landing (VTVL) rocket with interplanetary ambitions.
-  - **Status**: In advanced prototype testing phase.
-  - ![Rocketry](https://img.shields.io/badge/Rocketry-🚀-blue)
 
-- **🤖 Robotics**:
-  - **Focus**: Designing autonomous robots integrated with AI and IoT, enhancing smart systems for space exploration.
-  - **Research Areas**: Swarm intelligence, machine learning, and adaptive control systems.
-  - ![Robotics](https://img.shields.io/badge/Robotics-🤖-green)
+### 🚀 VTVL Rocket Development
+- **Goal**: Engineering a VTVL rocket designed for interplanetary missions.
+- **Status**: Advanced prototype testing phase.
+- **Highlights**:
+  - Reusable rocket technology
+  - Advanced propulsion systems
+  - Autonomous landing capabilities
+- ![Rocketry](https://img.shields.io/badge/Rocketry-🚀-blue)
 
-- **💻 Software Engineering**:
-  - **Goal**: Crafting state-of-the-art software for real-time data processing and rocket control simulations.
-  - **Tools**: Python (PyQt, Customtkinter), C++ with Qt for GUI applications, and real-time telemetry.
-  - **Current Focus**: Building a super-advanced Ground Control System GUI for our VTVL rocket.
-  - ![Software](https://img.shields.io/badge/Software-💻-red)
+### 🤖 Robotics
+- **Focus**: Designing autonomous robots integrated with AI and IoT for enhanced space exploration.
+- **Research Areas**:
+  - Swarm intelligence
+  - Machine learning
+  - Adaptive control systems
+- **Applications**:
+  - Planetary exploration
+  - In-space assembly
+  - Maintenance operations
+- ![Robotics](https://img.shields.io/badge/Robotics-🤖-green)
+
+### 💻 Software Engineering
+- **Goal**: Developing state-of-the-art software for real-time data processing and rocket control simulations.
+- **Tools**:
+  - Python (PyQt, Customtkinter)
+  - C++ with Qt for GUI applications
+  - Real-time telemetry systems
+- **Current Focus**: Building an advanced Ground Control System GUI for our VTVL rocket.
+- ![Software](https://img.shields.io/badge/Software-💻-red)
 
 <p align="center">
   <img src="26.png" alt="Spaceship Prototype" width="300"/>
@@ -67,17 +83,27 @@
 ---
 
 ## 🌱 Research & Development
-- **Continuous Learning**: Our team is dedicated to advancing in aerospace, AI, and robotics by exploring cutting-edge technologies.
-  - ![Learning](https://img.shields.io/badge/Learning-📚-yellow)
-  - Areas of interest: Quantum computing, neural networks, AI-driven control systems.
-  
-- **Collaborations**: Actively seeking partnerships and collaborations to innovate together.
-  - ![Collaboration](https://img.shields.io/badge/Collaboration-🤝-orange)
-  - Open to joint ventures in aerospace, robotics, and AI innovation.
+
+### Continuous Learning
+- **Commitment**: Advancing in aerospace, AI, and robotics by exploring cutting-edge technologies.
+- **Areas of Interest**:
+  - Quantum computing
+  - Neural networks
+  - AI-driven control systems
+- ![Learning](https://img.shields.io/badge/Learning-📚-yellow)
+
+### Collaborations
+- **Opportunities**: Seeking partnerships to innovate together.
+- **Open To**:
+  - Joint ventures in aerospace engineering
+  - Collaborative research in robotics and AI
+  - Academic and industry partnerships
+- ![Collaboration](https://img.shields.io/badge/Collaboration-🤝-orange)
 
 ---
 
 ## 🌐 Connect with Us
+
 <p align="center">
   <a href="https://www.instagram.com/projectoccupymars/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -89,13 +115,14 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://x.com/PIE_SPACE_12">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
 ---
 
 ## 🛠️ Our Technologies
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -113,6 +140,7 @@
 ---
 
 ## 📊 Metrics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PIEspace&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PIEspace&theme=radical" alt="GitHub Streak Stats"/>
@@ -122,21 +150,23 @@
 ---
 
 ## 🎇 SkyVoyager CanSat
+
 <p align="center">
   <img src="20.jpg" alt="SkyVoyager CanSat" width="500"/>
 </p>
 
-> **SkyVoyager CanSat**: A CanSat project designed for atmospheric data collection and telemetry simulations, preparing the way for future space exploration technologies.
+> **SkyVoyager CanSat**: An innovative CanSat project designed for atmospheric data collection and telemetry simulations, paving the way for future space exploration technologies.
 
 ---
 
 ## 📫 Get in Touch
+
 <p align="center">
   <a href="mailto:pie.space12@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://x.com/PIE_SPACE_12">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
