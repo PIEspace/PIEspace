@@ -1,4 +1,4 @@
-# <h1 align="center">🚀 Pie Space: Pioneering the Future of Aerospace 🚀</h1>
+<h1 align="center">🚀 Pie Space: Pioneering the Future of Aerospace 🚀</h1>
 
 <p align="center">
   <img src="Logo Two.jpeg" alt="Pie Space Logo" width="300"/>
@@ -33,11 +33,11 @@
 ## 🚀 Our Mission
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=800&lines=Revolutionizing+Space+Travel;Mastering+Vertical+Landing+Rocket+Tech;Building+the+Future+of+Aerospace;Empowering+Innovation;Join+Us+in+Shaping+the+Next+Frontier!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5733&size=30&center=true&vCenter=true&width=800&lines=Revolutionizing+Space+Travel;Mastering+Vertical+Landing+Rocket+Tech;Building+the+Future+of+Aerospace;Empowering+Innovation;Join+Us+in+Shaping+the+Next+Frontier!"/>
 </h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" alt="Rocket Launch" width="300"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Rocket Animation" width="600"/>
 </p>
 
 At **Pie Space**, we are committed to pushing the boundaries of aerospace technology. Our mission is to revolutionize space travel by mastering vertical take-off and vertical landing (VTVL) rocket technology with interplanetary capabilities. We strive to build the future of aerospace through innovation, collaboration, and a relentless pursuit of excellence.
@@ -77,14 +77,14 @@ At **Pie Space**, we are committed to pushing the boundaries of aerospace techno
 - ![Software](https://img.shields.io/badge/Software-💻-red)
 
 <p align="center">
-  <img src="26.png" alt="Spaceship Prototype" width="300"/>
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Space Technology" width="600"/>
 </p>
 
 ---
 
 ## 🌱 Research & Development
 
-### Continuous Learning
+### 🚀 Continuous Learning
 - **Commitment**: Advancing in aerospace, AI, and robotics by exploring cutting-edge technologies.
 - **Areas of Interest**:
   - Quantum computing
@@ -92,7 +92,7 @@ At **Pie Space**, we are committed to pushing the boundaries of aerospace techno
   - AI-driven control systems
 - ![Learning](https://img.shields.io/badge/Learning-📚-yellow)
 
-### Collaborations
+### 🤝 Collaborations
 - **Opportunities**: Seeking partnerships to innovate together.
 - **Open To**:
   - Joint ventures in aerospace engineering
@@ -142,9 +142,9 @@ At **Pie Space**, we are committed to pushing the boundaries of aerospace techno
 ## 📊 Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PIEspace&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PIEspace&theme=radical" alt="GitHub Streak Stats"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=PIEspace&theme=radical&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PIEspace&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PIEspace&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PIEspace&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
 
 ---
@@ -152,10 +152,18 @@ At **Pie Space**, we are committed to pushing the boundaries of aerospace techno
 ## 🎇 SkyVoyager CanSat
 
 <p align="center">
-  <img src="20.jpg" alt="SkyVoyager CanSat" width="500"/>
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="CanSat Animation" width="600"/>
 </p>
 
 > **SkyVoyager CanSat**: An innovative CanSat project designed for atmospheric data collection and telemetry simulations, paving the way for future space exploration technologies.
+
+---
+
+## 👽 Alien Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/14cYGD5AdUopPO/giphy.gif" alt="Alien Animation" width="600"/>
+</p>
 
 ---
 
