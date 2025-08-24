@@ -1,12 +1,26 @@
-# 🚀 PIEspace — Pioneering the Future of VTVL & Autonomous Aerospace
+<h1 align="center">🚀 PIEspace — Pioneering VTVL Rockets & Autonomous Aerospace 🚀</h1>
 
-![Logo](Logo%20Two.jpeg)
+<p align="center">
+  <img src="Logo%20Two.jpeg" alt="PIEspace Logo" width="280"/>
+</p>
 
-[![GitHub Followers](https://img.shields.io/github/followers/PIEspace?label=Follow&style=social)](https://github.com/PIEspace?tab=followers)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PIEspace.PIEspace)
-[![Contact](https://img.shields.io/badge/Email-Contact%20Us-blue?style=flat&logo=gmail)](mailto:pie.space12@gmail.com)
-![QA](https://img.shields.io/badge/QA-Flight%20Ready%20Process-8A2BE2)
-![License](https://img.shields.io/badge/License-Apache--2.0-green)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5733&size=26&center=true&vCenter=true&width=900&lines=Revolutionizing+Space+Travel;Electric+VTVL+Rocket+Development;MarsShip+Program+Underway;Building+Aerospace+Grade+Flight+Computers;Next+Stop:+Mars!"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PIEspace?tab=followers">
+    <img src="https://img.shields.io/github/followers/PIEspace?label=Follow&style=social"/>
+  </a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=PIEspace.PIEspace">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=PIEspace.PIEspace"/>
+  </a>
+  <a href="mailto:pie.space12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Us-blue?style=flat&logo=gmail"/>
+  </a>
+  <img src="https://img.shields.io/badge/License-Apache--2.0-green"/>
+  <img src="https://img.shields.io/badge/QA-Flight%20Ready%20Process-8A2BE2"/>
+</p>
 
 ---
 
@@ -14,11 +28,11 @@
 - [🚀 Mission](#-mission)
 - [🛰️ Programs & Projects](#️-programs--projects)
 - [🧠 Systems Architecture](#-systems-architecture)
-- [🛡️ Quality Assurance & Safety](#️-quality-assurance--safety)
-- [📡 Telemetry & Data Schema](#-telemetry--data-schema)
+- [🛡️ Quality Assurance](#️-quality-assurance)
+- [📡 Telemetry Schema](#-telemetry-schema)
 - [🧰 Developer Guide](#-developer-guide)
-- [⚙️ CI/CD & Automation](#️-cicd--automation)
-- [📊 Metrics & Dashboards](#-metrics--dashboards)
+- [⚙️ CI/CD Automation](#️-cicd-automation)
+- [📊 Metrics](#-metrics)
 - [🤝 Contributing](#-contributing)
 - [🔒 Security](#-security)
 - [📜 License](#-license)
@@ -29,41 +43,45 @@
 
 ## 🚀 Mission
 
-At **PIEspace**, our mission is to master **electric VTVL (Vertical Take-Off, Vertical Landing)** and autonomous rockets as a stepping stone to interplanetary spacecraft.
+At **PIEspace**, we believe **Vertical Take-Off and Vertical Landing (VTVL)** is the gateway to **reusable rockets** and eventually, **Mars colonization**.
 
-**2025–2026 Goals**
-- Develop **MarsShip V1** (200–500 m hop → belly-flop → precision landing).
-- Establish a robust **flight-safety & QA process**.
-- Publish **open telemetry formats**, **control stacks**, and **GCS tooling**.
+🌍 **Current Focus**  
+- **MarsShip V1** — electric VTVL demonstrator (200–500 m hop + belly-flop + precision landing).  
+- **Agni Flight Computer v3** — aerospace-grade avionics with sensor fusion.  
+- **SkyVoyager CanSat v3** — testbed for atmospheric data & telemetry.  
+
+✨ *“We are not just building rockets. We are building the future.”*
 
 ---
 
 ## 🛰️ Programs & Projects
 
-### 🔹 MarsShip V1 — Electric VTVL Rocket
-- **Goal:** Hop to 200–500 m, belly-flop, land on pad.  
-- **Status:** Integration & Hardware-in-the-Loop (HIL) testing.  
-- **Tech:** STM32H7VIT6 + Raspberry Pi, BNO055, BMP388, GNSS, LoRa/NRF/4G, carbon-fiber body, TVC gimbal, grid fins.
+### 🚀 MarsShip V1 — Electric VTVL Rocket
+- **Goal:** Hop to 500 m, belly-flop, return to pad.  
+- **Tech Stack:**  
+  - STM32H7VIT6 Flight Computer + Raspberry Pi 4/5 onboard AI  
+  - Sensors: BNO055 IMU, BMP388 baro, GNSS, distance sensors  
+  - Actuators: Dual ESC motors, 2-axis TVC, grid fins, RCS  
+  - Comms: LoRa, NRF24, Wi-Fi, Bluetooth, 4G (Quectel EC200U-CN)  
+  - Structure: Carbon fiber  
 
-### 🔹 Agni Flight Computer
-- Aerospace-grade avionics stack with **sensor fusion (Madgwick + Kalman)**, **deterministic control**, and **fail-safes**.
+### 🤖 Robotics Program
+- Autonomous robots for **in-space assembly & planetary exploration**.  
+- Focus: **Swarm AI, adaptive control, machine learning**.  
 
-### 🔹 Ground Control System (GCS)
-- Professional **dashboard** for pre-flight, live telemetry, command uplink, and replay.  
-- Stack: Python (PyQt), Processing/JavaFX, or WebSerial GUI.
-
-### 🔹 SkyVoyager CanSat V3
-- Atmospheric sensing & telemetry to derisk rocket avionics.
+### 💻 GCS — Ground Control System
+- Python (PySide6) + Processing + Web GUI.  
+- Real-time telemetry, replay, maps, 3D visualization.  
 
 ---
 
 ## 🧠 Systems Architecture
 
 ```mermaid
-flowchart LR
-  GCS[Ground Control Station] <---> COMMS[Comms: LoRa/NRF/4G]
-  COMMS <-->|UART/SPI| FC[Flight Controller STM32H7VIT6]
-  OC[Onboard Computer RPi 4/5] <-->|UART| FC
-  FC -->|PWM| ACT[TVC, ESCs, Grid Fins]
-  SENS[IMU BNO055, Baro BMP388, GNSS] -->|I2C| FC
-  PWR[Power & BMS] --> FC
+flowchart TD
+  GCS[Ground Control Station] <--->|LoRa/4G| COMMS[Comms Hub]
+  COMMS <-->|UART| FC[Flight Controller STM32H7VIT6]
+  OC[Onboard Computer RPi4/5] <-->|USB| FC
+  FC -->|PWM| ACT[TVC Servos, ESCs, Grid Fins]
+  SENS[IMU BNO055, Baro BMP388, GNSS] -->|I2C/SPI| FC
+  PWR[Battery + BMS] --> FC
