@@ -1,7 +1,7 @@
 <h1 align="center">🚀 PIEspace — Pioneering Vertical Reusability & Interplanetary Flight Systems 🚀</h1>
 
 <p align="center">
-  <img src="Logo%205.png" alt="PIEspace Logo" width="260"/>
+  <img src="5.png" alt="PIEspace Logo" width="260"/>
 </p>
 
 <p align="center">
