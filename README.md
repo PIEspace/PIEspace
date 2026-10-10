@@ -1,108 +1,82 @@
-<h1 align="center">🚀 PIEspace — Pioneering Vertical Reusability & Interplanetary Flight Systems 🚀</h1>
+<div align="center">
 
-<p align="center">
-  <img src="5.png" alt="PIEspace Logo" width="260"/>
-</p>
+# 🚀 PIEspace
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF2F00&size=26&center=true&vCenter=true&width=1000&lines=Engineering+the+Future+of+Aerospace;Electric+VTVL+Rocket+Fleet;MarsShip+Program+2030;Autonomous+Flight+Computers;Next+Stop:+Mars+and+Beyond!">
-</p>
+### Pioneering Vertical Reusability • Autonomous Avionics • Interplanetary Systems
 
-<p align="center">
-  <a href="https://github.com/PIEspace?tab=followers"><img src="https://img.shields.io/github/followers/PIEspace?label=Follow&style=social"></a>
-  <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=PIEspace.PIEspace"></a>
-  <a href="mailto:pie.space12@gmail.com"><img src="https://img.shields.io/badge/Email-PIEspace-blue?logo=gmail"></a>
-  <img src="https://img.shields.io/badge/License-Apache--2.0-green">
-  <img src="https://img.shields.io/badge/Certification-Aerospace%20QA%20Process%209001-purple">
-  <img src="https://img.shields.io/badge/Status-Flight%20Testing%20Soon-orange">
-</p>
+<img src="5.png" alt="PIEspace Logo" width="280"/>
 
----
+<br/>
 
-## 📡 Executive Summary
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=2800&pause=700&color=FF3B30&center=true&vCenter=true&width=900&lines=Engineering+Next-Generation+Aerospace+Systems;Developing+Electric+VTVL+Technology;Building+Autonomous+Flight+Computers;Advanced+Telemetry+%26+Ground+Control;CanSat+%E2%80%A2+CubeSat+%E2%80%A2+Rover+%E2%80%A2+VTVL;From+Earth+to+Mars+%F0%9F%9A%80"/>
 
-**PIEspace** is a **full-stack aerospace engineering initiative** developing:
+<br/><br/>
 
-- **Electric VTVL reusable rockets**
-- **Fully autonomous flight computers**
-- **Interplanetary mission architecture**
-- **Robotic systems for Mars surface & orbital infrastructure**
-- **Advanced telemetry & AI-powered decision systems**
+<a href="https://github.com/PIEspace?tab=followers">
+<img src="https://img.shields.io/github/followers/PIEspace?style=for-the-badge&logo=github&label=FOLLOWERS&color=181717"/>
+</a>
 
-> 🟥 *The goal is simple*: Make spaceflight **affordable, reusable, autonomous, and Mars-capable.**
+<img src="https://komarev.com/ghpvc/?username=PIEspace&style=for-the-badge&color=ff3b30&label=PROFILE+VIEWS"/>
 
----
+<a href="mailto:pie.space12@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 📖 Table of Contents
-- [🚀 Mission](#-mission)
-- [🛰 Programs](#-programs)
-- [🧬 Technology Stack](#-technology-stack)
-- [🧠 Flight Computer Architecture](#-flight-computer-architecture)
-- [🌐 Communications Layer](#-communications-layer)
-- [📡 Telemetry & Data Protocol](#-telemetry--data-protocol)
-- [🛡 Aerospace QA & Safety](#-aerospace-qa--safety)
-- [⚙ CI/CD Automation](#-cicd-automation)
-- [🧰 Developer Environment](#-developer-environment)
-- [🤝 Contribute](#-contribute)
-- [🔒 Security](#-security)
-- [📜 License](#-license)
-- [🌎 Connect](#-connect)
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-AEROSPACE-0A0A0A?style=flat-square"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/VTVL-R%26D-FF3B30?style=flat-square"/>
+<img src="https://img.shields.io/badge/AUTONOMY-FLIGHT_SYSTEMS-2962FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/DESTINATION-MARS-E65100?style=flat-square"/>
+
+<br/><br/>
+
+> **Engineering reusable, autonomous and intelligent aerospace systems — one prototype at a time.**
+
+</div>
 
 ---
 
-## 🚀 Mission
+# 📡 Executive Summary
 
-To engineer **the world's first scalable, electric-propulsion VTVL system**, establishing the foundation for:
+**PIEspace** is an independent aerospace engineering initiative focused on developing experimental aerospace, autonomous avionics, robotics and reusable flight technologies.
 
-| Phase | Objective |
-|------|----------|
-| **2025–2027** | Electric VTVL Hop Demo |
-| **2027–2031** | MarsShip Orbital Booster |
-| **2031–2035** | Autonomous Mars Fleet & Cargo |
+Our engineering ecosystem combines:
 
-> ⭐ “We aren’t visiting Mars — we’re moving in.”
+- 🚀 Electric VTVL research
+- 🛰️ CanSat systems
+- 🛰️ CubeSat development
+- 🤖 Planetary robotics
+- 🧠 Autonomous flight computers
+- 🧭 Guidance, Navigation & Control
+- 📡 Long-range telemetry
+- 💻 Mission-control software
+- ⚡ Embedded avionics
+- 🔬 Experimental aerospace engineering
 
----
+The long-term objective is to develop increasingly capable autonomous and reusable aerospace systems while building the avionics, software, communications and robotics infrastructure required for future planetary missions.
 
-## 🛰 Programs
+<div align="center">
 
-### 🔥 **MarsShip V1 — Electric VTVL Rocket**
-- 200–800 m hop test
-- Controlled belly-flop maneuver
-- Autopilot landing accuracy < **20 cm radius**
+## 🌍 EARTH → 🧠 AUTONOMY → ♻️ REUSABILITY → 🛰️ ORBIT → 🔴 MARS
 
-| Technology | Specs |
-|-----------|------|
-| Avionics | STM32H7 + RPi5 |
-| Actuation | TVC + ESC + Grid Fins |
-| Navigation | EKF3 + AI Auto-Prediction |
-| Structure | Carbon Composite |
-| Safety | 6-Layer Redundancy |
+</div>
 
 ---
 
-## 🧬 Technology Stack
+# 🎯 Mission
 
-| Domain | Tools |
-|--------|------|
-| Flight Firmware | C / C++ (STM32, ESP32)|
-| Ground Control | PySide6, Processing, WPF |
-| Telemetry | LoRa, 4G, Cloud Relay |
-| AI | PyTorch, TensorFlow |
-| CAD & Aero | Fusion360, SimScale, OpenRocket |
-| PCB | KiCad |
+> ## Build. Test. Fail. Learn. Improve. Fly Again.
 
-
----
-
-## 🧠 Flight Computer Architecture
+PIEspace follows an iterative engineering philosophy.
 
 ```mermaid
 flowchart LR
-    SENSORS[IMU, Baro, GNSS, Lidar, Current Sensors] -->|Fusion| EKF[Extended Kalman Filter Engine]
-    EKF --> NAV[Navigation & State Prediction]
-    NAV --> CTRL[Control Laws PID + LQR + ML Adapt]
-    CTRL --> ACT[Actuators: TVC Servos, ESC, RCS, Grid Fins]
-    NAV --> SAFE[Auto Abort + Land Anywhere]
-    GCS[Ground Control] <-->|Encrypted| LINK[Rocket Comms Hub]
-    OC[Onboard AI Computer RPi5] -->|Trajectory ML| NAV
+    A["💡 CONCEPT"] --> B["🖥️ SIMULATION"]
+    B --> C["🔧 PROTOTYPE"]
+    C --> D["🧪 GROUND TEST"]
+    D --> E["🚀 FLIGHT TEST"]
+    E --> F["📊 DATA ANALYSIS"]
+    F --> G["⚙️ IMPROVEMENT"]
+    G --> C
